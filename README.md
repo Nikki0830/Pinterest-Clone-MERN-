@@ -3,8 +3,6 @@ It's a MERN Stack Website. Pinterest is basically an image sharing and social me
 
 
 
-
-
 ![Screenshot (718)](https://user-images.githubusercontent.com/69712671/160254931-34e19b39-f90c-4ae0-a9ed-70cc8c73a527.png)
 
 
