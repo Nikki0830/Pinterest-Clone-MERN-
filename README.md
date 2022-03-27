@@ -3,19 +3,29 @@ It's a MERN Stack Website. Pinterest is basically an image sharing and social me
 </br>
 </br>
 
-
+1-Landing Page
+</br>
+</br>
 ![Screenshot (718)](https://user-images.githubusercontent.com/69712671/160254931-34e19b39-f90c-4ae0-a9ed-70cc8c73a527.png)
 </br>
-
+</br>
+1-Home Page
+</br>
+</br>
 ![Screenshot (714)](https://user-images.githubusercontent.com/69712671/160254944-186a1d62-4354-4d25-9f0e-8668b3f177c0.png)
 </br>
-
-
+</br>
+1-Media Selection Page
+</br>
+</br>
 ![Screenshot (715)](https://user-images.githubusercontent.com/69712671/160255122-2d565d27-3a9a-4928-9da2-b641f168fe7b.png)
 </br>
-
-
+</br>
+1-Media Upload Page
+</br>
+</br>
 ![Screenshot (717)](https://user-images.githubusercontent.com/69712671/160255217-cedd2f92-9f89-4f52-9dcd-88b0aa3f02eb.png)
+</br>
 </br>
 
 
